@@ -1221,7 +1221,7 @@ Portfolio with right sidebar
 }
 
 .categories .navbar-stacked li:last-child {
-    border-bottom: 0px solid #ececec;
+    border-bottom: 0 solid #ececec;
 }
 
 .categories .navbar-stacked li a {
@@ -1265,7 +1265,7 @@ Portfolio with right sidebar
     border-color: transparent transparent transparent #fff;
     border-width: 6px;
     border-style: solid;
-    left: 0px;
+    left: 0;
     top: 15px;
     margin-top: 0;
     z-index: 1;
@@ -1287,7 +1287,7 @@ Portfolio with right sidebar
 }
 
 .sidebar-item .media:last-child{
-    border-bottom: 0px solid #ececec;  
+    border-bottom: 0 solid #ececec;
     padding-bottom: 0; 
 }
 
