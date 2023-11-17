@@ -1976,7 +1976,7 @@ span.stButton_gradient,
 }
 
 .corporate-info .corporate-address {
-    background-image: url("/images/contact-bg.png");
+    background-image: url("images/contact-bg.png");
     background-position: left top;
     background-repeat: no-repeat;
     overflow: hidden;
@@ -1984,7 +1984,7 @@ span.stButton_gradient,
 }
 
 .corporate-info .corporate-address address {
-    background-image: url("/images/icon-map.png");
+    background-image: url("images/icon-map.png");
     background-position: left top;
     background-repeat: no-repeat;
     padding-left: 40px;
@@ -2339,7 +2339,7 @@ span.stButton_gradient,
 }
 
 .bg-404 {
-    background-image: url("/images/home/tour-bg.png");
+    background-image: url("images/home/tour-bg.png");
     background-repeat: repeat-x;
     background-position: center top;
 }
@@ -2430,7 +2430,7 @@ span.stButton_gradient,
 }
 
 .bg-404 {
-    background-image: url("/images/404-bg.png");
+    background-image: url("images/404-bg.png");
     background-repeat: repeat-x;
     background-position: center top;
 }
@@ -2536,7 +2536,7 @@ span.stButton_gradient,
 }
 
 #coming-soon {
-    background-image: url("/images/coming-soon-bg.png");
+    background-image: url("images/coming-soon-bg.png");
     background-position: center top;
     background-repeat: repeat-x;
     padding: 40px 0;
