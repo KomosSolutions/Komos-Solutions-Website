@@ -618,7 +618,7 @@ ul.sub-menu {
 }
 
 #action {
-    background-image: url(images/home/5-bg.png);
+    background-image: url(../images/home/5-bg.png);
     background-color: #fbfafa;
     background-repeat: repeat-x;
     height: 157px;
@@ -737,7 +737,7 @@ ul.sub-menu {
 }
 
 #page-breadcrumb {
-    background-image: url(images/home/5-bg.png);
+    background-image: url(../images/home/5-bg.png);
     background-color: #fbfafa;
     background-repeat: repeat-x;
     height: 130px;
@@ -876,12 +876,12 @@ ul.sub-menu {
 
 .right.team-carousel-control {
     right: -50px;
-    background-image: url(images/aboutus/right.png);
+    background-image: url(images/portfolio/right.png);
 }
 
 .left.team-carousel-control {
     left: -50px;
-    background-image: url(images/aboutus/left.png);
+    background-image: url(images/portfolio/left.png);
 }
 
 .team-carousel-control:hover{
@@ -1984,7 +1984,7 @@ span.stButton_gradient,
 }
 
 .corporate-info .corporate-address address {
-    background-image: url("images/icon-map.png");
+    background-image: url("images/map.png");
     background-position: left top;
     background-repeat: no-repeat;
     padding-left: 40px;
